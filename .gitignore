@@ -1,0 +1,15 @@
+bin/Debug/netcoreapp2.0/Ingenio.deps.json
+bin/Debug/netcoreapp2.0/Ingenio.dll
+bin/Debug/netcoreapp2.0/Ingenio.pdb
+bin/Debug/netcoreapp2.0/Ingenio.runtimeconfig.dev.json
+bin/Debug/netcoreapp2.0/Ingenio.runtimeconfig.json
+obj/Debug/netcoreapp2.0/Ingenio.AssemblyInfo.cs
+obj/Debug/netcoreapp2.0/Ingenio.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp2.0/Ingenio.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp2.0/Ingenio.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp2.0/Ingenio.dll
+obj/Debug/netcoreapp2.0/Ingenio.pdb
+obj/Ingenio.csproj.nuget.cache
+obj/Ingenio.csproj.nuget.g.props
+obj/Ingenio.csproj.nuget.g.targets
+obj/project.assets.json
