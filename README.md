@@ -5,6 +5,9 @@ Took about an hour to complete.
 
 To solve this I used classes, linked lists, recursion, extension methods, linq and dictionaries.
 Did error checking where needed, but I did code for the happy path mostly.
+This is not using C# 8.0 which introduces nullable reference types and non-nullable reference types that
+enable you to make important statements about the properties for reference type variables
+https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references
 
 It's a .Net Core console application created in vs Code.
 To build and run it:
